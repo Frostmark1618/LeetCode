@@ -118,6 +118,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0044-wildcard-matching](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -128,6 +129,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -146,6 +148,7 @@
 | [0013-roman-to-integer](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0214-shortest-palindrome) |
@@ -239,4 +242,8 @@
 | ------- |
 | [0214-shortest-palindrome](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/1392-longest-happy-prefix) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
