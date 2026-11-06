@@ -146,6 +146,7 @@
 | [0006-zigzag-conversion](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/Frostmark1618/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0044-wildcard-matching) |
@@ -246,4 +247,12 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0044-wildcard-matching) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Frostmark1618/LeetCode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Frostmark1618/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
