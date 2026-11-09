@@ -163,6 +163,7 @@
 | [0459-repeated-substring-pattern](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0647-palindromic-substrings](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0763-partition-labels](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0763-partition-labels) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Frostmark1618/LeetCode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1392-longest-happy-prefix](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/1392-longest-happy-prefix) |
 ## Quicksort
 |  |
@@ -253,6 +254,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Frostmark1618/LeetCode/tree/master/0020-valid-parentheses) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Frostmark1618/LeetCode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
